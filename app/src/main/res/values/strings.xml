@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="length_converter">LENGTH CONVERTER</string>
+    <string-array name="units">
+        <item>Inch</item>
+        <item>Centimeter</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Meter</item>
+        <item>Mile</item>
+        <item>Kilometer</item>
+    </string-array>
+
+
+    <string name="mass_converter">MASS CONVERTER</string>
+    <string name="convert_mass">CONVERT</string>
+    <string-array name="mass_units">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Microgram</item>
+        <item>ImperialTon</item>
+        <item>USTon</item>
+        <item>stone</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Tonne</item>
+    </string-array>
+
+    <string name="speed_converter">SPEED CONVERTER</string>
+    <string name="convert_speed">CONVERT</string>
+    <string-array name="speed_units">
+        <item>Mph</item>
+        <item>Fps</item>
+        <item>mps</item>
+        <item>Kmph</item>
+        <item>Knot</item>
+    </string-array>
+
+    <string name="time_converter">TIME CONVERTER</string>
+    <string name="convert_time">CONVERT</string>
+    <string-array name="time_units">
+        <item>NanoSecond</item>
+        <item>MicroSecond</item>
+        <item>MilliSecond</item>
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>Decade</item>
+        <item>Century</item>
+    </string-array>
+
+
+    <string name="area_converter">AREA CONVERTER</string>
+    <string name="convert_area">CONVERT</string>
+    <string-array name="area_units">
+        <item>sqKilometer</item>
+        <item>sqMeter</item>
+        <item>sqMile</item>
+        <item>sqYard</item>
+        <item>sqFoot</item>
+        <item>sqInch</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+    </string-array>
+
+    <string name="energy_converter">ENERGY CONVERTER</string>
+    <string name="convert_energy">CONVERT</string>
+    <string-array name="energy_units">
+        <item>Joule</item>
+        <item>KiloJoule</item>
+        <item>gramCalorie</item>
+        <item>KiloCalorie</item>
+        <item>WattHour</item>
+        <item>KiloWattHour</item>
+        <item>Electronvolt</item>
+        <item>BTU</item>
+        <item>USTherm</item>
+        <item>FootPound</item>
+    </string-array>
+
+
+</resources>
